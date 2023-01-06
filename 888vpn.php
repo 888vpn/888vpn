@@ -1,13 +1,13 @@
 {
-  "Version_update": "1.3",
+  "Version_update": "1.4",
   "Link_zip": "https://github.com/888vpn/888vpn/raw/main/888vpn.zip",
   "Password": "123456",
   "Message": "รายละเอียดแอพฯ
 👉 เซิฟ SG Digital 10 เซิฟ
 👉     SG Gcore   10 เซิฟ
-👉     SG M247    16 เซิฟ
-👉     SG OVH     8  เซิฟ
-👉     SG Smooth  16 เซิฟ
+👉     SG M247    10 เซิฟ
+👉     SG OVH     10  เซิฟ
+👉     SG Smooth  10 เซิฟ
 👉     SG AUTO    10 เซิฟ
 👉 เซิฟ TH VIP CAT  7 เซิฟ
 👉     TH VIP INET 5 เซิฟ
