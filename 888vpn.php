@@ -7,7 +7,8 @@
 รายการเซิฟเวอร์
 CA 10 SERVER
 US 10 SERVER
-TH-BM 5 SERVER
+TH-BM 5 SERVER 
+TH-INET 5 SERVER
 VIP-CAT 8 SERVER
 กันรั่วทรู *935*99# ฟรี
 กันรั่วดีแทค *117*30# 20บาทใช้ได้30วัน
