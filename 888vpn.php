@@ -1,5 +1,5 @@
 {
-  "Version_update": "1.6",
+  "Version_update": "1.7",
   "Link_zip": "https://github.com/888vpn/888vpn/raw/main/888vpn.zip",
   "Password": "123456",
   "Message": "รายละเอียดแอพฯ
