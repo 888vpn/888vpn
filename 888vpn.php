@@ -1,5 +1,5 @@
 {
-  "Version_update": "1.8",
+  "Version_update": "1.9",
   "Link_zip": "https://github.com/888vpn/888vpn/raw/main/888vpn.zip",
   "Password": "123456",
   "Message": "รายละเอียดแอพฯ
@@ -9,7 +9,7 @@ CA 10 SERVER
 US 10 SERVER
 TH-BM 5 SERVER 
 TH-INET 5 SERVER
-VIP-CAT 8 SERVER
+VIP-CAT 7 SERVER
 กันรั่วทรู *935*99# ฟรี
 กันรั่วดีแทค *117*30# 20บาทใช้ได้30วัน
 กันรั่วAIS *777*7067# 31บาทใช้ได้30วัน
